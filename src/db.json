@@ -1,0 +1,41 @@
+{
+  "task": {
+    "list": [
+      {
+        "name": "Design a prototype",
+        "time": "2022-03-07",
+        "description": "Task1 description Task1 description Task1 description Task1 description",
+        "category": "Personal",
+        "deadline": "2022-03-27"
+      },
+      {
+        "name": "Organise desktop",
+        "time": "2022-03-07",
+        "description": "Task2 description Task2 description Task2 description Task2 description",
+        "category": "Work",
+        "deadline": "2022-04-27"
+      },
+      {
+        "name": "Meeting with manager",
+        "time": "2022-03-08",
+        "description": "Task3 description Task3 description Task3 description Task3 description",
+        "category": "Personal",
+        "deadline": "2022-04-27"
+      }
+    ]
+  },
+  "category": [
+    {
+      "name": "Personal"
+    },
+    {
+      "name": "Work"
+    },
+    {
+      "name": "Study"
+    },
+    {
+      "name": "Hosusehold"
+    }
+  ]
+}
