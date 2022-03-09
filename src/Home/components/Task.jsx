@@ -56,6 +56,7 @@ export function Task(props) {
 
 const TaskContainer = styled.div`
   border: 1px solid black;
+  border-radius: 25px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -66,6 +67,7 @@ const TaskWarpper = styled.div`
   display: "flex";
   flex-direction: "column";
   border: 1px solid black;
+  border-radius: 25px;
   margin: 10px;
   padding: 10px;
 `;
