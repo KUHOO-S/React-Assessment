@@ -91,12 +91,14 @@ export function Edit() {
 const TaskWarpper = styled.div`
   display: "flex";
   flex-direction: "column";
+  border-radius: 25px;
   border: 1px solid black;
   margin: 10px;
   padding: 10px;
 `;
 const TaskContainer = styled.div`
 border: 1px solid black;
+border-radius: 25px;
 display: flex;
 justify-content: space-between;
 align-items: center;
